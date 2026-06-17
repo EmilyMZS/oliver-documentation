@@ -41,6 +41,8 @@ Modalidades disponibles:
 
 ## Universidades Convenio recomendadas para Mecatrónica y Electrónica {#universidades}
 
+[Convenios vigentes Universidad Iberoamericana Puebla](https://www.iberopuebla.mx/sites/default/files/2026-06/Convenios%20Vigentes%20%2810%29.pdf)
+
 === "🇦🇷 Argentina"
     - **Universidad Católica de Salta**, Español (sin certificado)
     - **Universidad Católica de Córdoba**, Español (sin certificado)
@@ -51,7 +53,6 @@ Modalidades disponibles:
 
 === "🇧🇷 Brasil"
     - **Centro Universitario da FEI**, Portugués (sin certificado)
-    - **Universidad Católica de Pernambuco**, Portugués (sin certificado)
     - **Universidade do Vale do Rio dos Sinos (UNISINOS)**, Portugués (sin certificado)
 
 === "🇨🇴 Colombia"
@@ -70,6 +71,9 @@ Modalidades disponibles:
     - **Universidad del Pacífico**, Español (sin certificado)
     - **Universidad Antonio Ruiz de Montoya**, Español (sin certificado)
 
+=== "🇩🇴 República Dominicana"
+    - **Instituto Especializado de Estudios Superiores Loyola (San Cristóbal)**, Español (sin certificado) · Oferta limitada
+
 === "🇺🇾 Uruguay"
     - **Universidad Católica del Uruguay**, Español (sin certificado)
 
@@ -79,12 +83,13 @@ Modalidades disponibles:
 
 === "🇺🇸 Estados Unidos"
     - **University of Scranton**, Inglés | TOEFL iBT 90
-    - **University of San Francisco**, Inglés | TOEFL iBT 90
+    - **University of San Francisco**, Inglés | TOEFL iBT 90 · Plaza única
 
 === "🇩🇪 Alemania"
     - **Hochschule Bremen (HSB)**, Inglés B2* o Alemán B1.2
     - **THWS – Campus Schweinfurt**, Inglés B2* o Alemán B2
     - **Hochschule Bielefeld (HSBI)**, Inglés B2
+    - **Leibniz Universität Hannover**, Inglés B2* 
 
 === "🇧🇪 Bélgica"
     - **Haute École de la Province de Liège (HEPL)**, Inglés B2* (otoño) y/o Francés DELF B2
@@ -95,14 +100,13 @@ Modalidades disponibles:
 === "🇪🇸 España"
     - **IQS – Barcelona**, Inglés TOEFL ITP 550
     - **Universidad de Deusto – Facultad de Ingeniería**, Español (sin certificado)
-    - **Universidad de Nebrija**, Español (sin certificado)
+    - **Universidad de Nebrija**, Español (sin certificado) · Plaza única
     - **Universidad de Valladolid**, Español (sin certificado)
     - **Universidad Loyola**, Español (sin certificado)
     - **Universidad Pontificia Comillas**, Inglés B2* y/o Español (sin certificado)
     - **Universidad Politécnica de Madrid (UPM)**, Español (sin certificado)
     - **Mondragon Unibertsitatea**, Español (sin certificado)
-
-
+    - **Universidad Santiago de Compostela**, Español (sin certificado) · Plaza única
 
 ---
 

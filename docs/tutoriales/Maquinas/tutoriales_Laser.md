@@ -1,5 +1,7 @@
 # Cortadora Laser
 
+Para poder ocupar la cortadora laser de manera autonoma, es necesario haber concluido la materia de Proyectos de Ingenieria I. Asi mismo debes solicitar a tu coordinador que envie un correo a los encargados del Fab Lab para que te den acceso a la cortadora laser, con al menos 24 horas de anticipacion a la fecha en la que planeas usarla.
+
 ## Software
 
 ### Descargar y operar el instalador

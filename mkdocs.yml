@@ -76,3 +76,6 @@ plugins:
 validation:
   nav:
     omitted_files: ignore
+
+not_in_nav: |
+  clases/**
