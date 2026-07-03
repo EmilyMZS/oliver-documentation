@@ -1,47 +1,10 @@
 # Lengua Extranjera
 
-La Ibero Puebla, con el fin de brindarte más herramientas para un exitoso futuro profesional, requiere que cumplas con el requisito de lengua adicional al español. 
+Como parte de tu formación en la Ibero Puebla, es necesario acreditar el requisito de lengua extranjera. A partir del **segundo semestre**, el **AIDEL (Área Intercultural de Lenguas)** ofrece diferentes cursos para cumplir con este requisito. En la universidad, el **inglés es el idioma base y obligatorio** antes de cursar cualquier otro idioma.
 
-## Escenarios para cumplir el requisito de lengua extranjera
+## Oferta de idiomas
 
-### Escenario A:
-
-Entregar alguna de las certificaciones (nivel B1 de alemán o B2 de francés o inglés) mencionadas en la sección "Certificados Válidos" + acreditar dos asignaturas de la oferta de AIDEL disponible a partir del segundo semestre.
-
-
-
-### Escenario B:
-
-Realizar exámen de colocación + acreditar los niveles necesarios a partir del segundo semestre hasta obtener la certificación.
-
-
-
-### Escenario C:
-
-Conocimientos nulos de inglés: tomar el taller introductorio en el AIDEL en tu primer semestre y continuar con la inscripción de los seis niveles hasta obtener la certificación.
-
-
-
-## Certificados válidos
-
-Puedes comprobar tu nivel de lengua extranjera mediante alguno de los siguientes documentos:
-
-| Foreign language          | Certificate                               | Level / score |
-| ------------------------- | ----------------------------------------- | ------------- |
-| German                    | Goethe-Zertifikat                         | B1            |
-| German                    | ÖSD                                       | B1            |
-| German                    | Sprachdiplom                              | B1            |
-| French                    | DELF                                      | B2            |
-| French                    | TEF                                       | B2            |
-| English                   | TOEFL ITP IBERO                           | 550           |
-| English                   | TOEIC IBERO                               | 750           |
-| English                   | TOEFL iBT (Home Edition **not accepted**) | 71            |
-| English                   | IELTS                                     | B2            |
-| English                   | FCE/CAE                                   | C/ESOL B2     |
-| German / French / English | International Baccalaureate               | —             |
-
-
-## Oferta de asignaturas de AIDEL
+Puedes cursar alguno de los siguientes idiomas:
 
 - 🇩🇪 Alemán
 - 🇸🇦 Árabe
@@ -50,5 +13,54 @@ Puedes comprobar tu nivel de lengua extranjera mediante alguno de los siguientes
 - 🇬🇧/🇺🇸 Inglés
 - 🇮🇹 Italiano
 - 🇯🇵 Japonés
-- 🇲🇽 Nahuatl
+- 🇲🇽 Náhuatl
 - 🇵🇹 Portugués
+
+## ¿Qué opción me corresponde?
+
+Dependiendo de tu nivel de conocimientos o de si ya cuentas con una certificación oficial, existen tres escenarios.
+
+### Escenario A: Ya cuentas con una certificación oficial
+
+Si ya tienes una certificación externa válida, únicamente deberás:
+
+1. Entregar la certificación correspondiente.
+2. Acreditar **dos asignaturas** de tu preferencia de la oferta de AIDEL.
+
+Las certificaciones aceptadas son las siguientes:
+
+| Idioma | Certificación | Nivel o puntaje |
+|--------|---------------|-----------------|
+| Alemán | Goethe-Zertifikat | B1 |
+| Alemán | ÖSD | B1 |
+| Alemán | Sprachdiplom | B1 |
+| Francés | DELF | B2 |
+| Francés | TEF | B2 |
+| Inglés | TOEFL ITP IBERO | 550 |
+| Inglés | TOEIC IBERO | 750 |
+| Inglés | TOEFL iBT *(Home Edition no aceptado)* | 71 |
+| Inglés | IELTS | B2 |
+| Inglés | FCE / CAE | B2 |
+| Alemán / Francés / Inglés | International Baccalaureate | — |
+
+---
+
+### Escenario B: Ya tienes conocimientos, pero no una certificación
+
+Si sabes inglés, pero no cuentas con una certificación oficial, deberás:
+
+1. Presentar un **examen de colocación** de inglés.
+2. Cursar y acreditar únicamente los niveles que el examen de colocación determine.
+3. Obtener la certificación de inglés.
+4. Opcional: Puedes continuar con el idioma de tu preferencia.
+
+---
+
+### Escenario C: No tienes conocimientos del idioma
+
+Si no tienes conocimientos previos, deberás:
+
+1. Inscribirte al **taller introductorio** durante tu primer semestre.
+2. Continuar con los **seis niveles** de idioma ofrecidos por AIDEL.
+3. Obtener la certificación de inglés.
+4. Opcional: Puedes continuar con el idioma de tu preferencia.
